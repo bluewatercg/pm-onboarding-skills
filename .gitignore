@@ -1,0 +1,16 @@
+# 仅保留公开发布白名单
+/*
+!/.gitignore
+!/README.md
+!/skills/
+/skills/*
+!/skills/pm-new-project-onboarding/
+!/skills/pm-existing-project-integration/
+/skills/*/*
+!/skills/*/SKILL.md
+!/skills/*/references/
+!/skills/*/assets/
+/skills/*/references/*
+!/skills/*/references/PLAN.md
+/skills/*/assets/*
+!/skills/*/assets/checklist.md
